@@ -6,7 +6,7 @@ import java.net.InetAddress;
 import java.util.*;
 
 public class BattleClientGUI {
-    private static final String SERVER_ADDRESS = "192.168.199.113";
+    private static final String SERVER_ADDRESS = "localhost";
     private static final int SERVER_PORT = 9876;
     private static final int BUFFER_SIZE = 1024;
     private static DatagramSocket clientSocket;
