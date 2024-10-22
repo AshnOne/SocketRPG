@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6e93118-033c-4416-b3b3-67999c0cb4bb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jerjmkD1KWeFV1Mxx75bCGG9GP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BattleClientGUI.executor": "Run",
+    "Application.BattleServer.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/OneDrive/Documentos/facul/Quarto ano/SD/Socket_UDP_RPG (2) (1)/Socket_UDP_RPG (3) (1)/Socket_UDP_RPG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\Downloads\Socket_UDP_RPG\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BattleClientGUI">
+    <configuration name="BattleClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BattleClientGUI" />
+      <module name="Socket_UDP_RPG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BattleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BattleServer" />
+      <module name="Socket_UDP_RPG" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BattleClientGUI" />
+        <item itemvalue="Application.BattleServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e93118-033c-4416-b3b3-67999c0cb4bb" name="Changes" comment="" />
+      <created>1721758523402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721758523402</updated>
+      <workItem from="1721758524421" duration="228000" />
+      <workItem from="1721839622486" duration="323000" />
+      <workItem from="1721902927921" duration="1417000" />
+      <workItem from="1721937566145" duration="822000" />
+      <workItem from="1722367253808" duration="322000" />
+      <workItem from="1722507615938" duration="6892000" />
+      <workItem from="1722596396183" duration="8389000" />
+      <workItem from="1722853681512" duration="10135000" />
+      <workItem from="1722885687803" duration="2888000" />
+      <workItem from="1722939944076" duration="3676000" />
+      <workItem from="1722963315599" duration="5758000" />
+      <workItem from="1722997963697" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
