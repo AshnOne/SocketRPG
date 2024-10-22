@@ -13,7 +13,7 @@ enemy = {
     'initiative': 0
 }
 
-# Definição dos jogadores (base inicial)
+# Definição dos jogadores
 players = {
     'player1': {'class': 'Guerreiro', 'hp': 100, 'ac': 18, 'str': 16, 'dex': 12, 'int': 10, 'initiative': 0, 'actions': []},
     'player2': {'class': 'Mago', 'hp': 60, 'ac': 12, 'str': 8, 'dex': 14, 'int': 18, 'initiative': 0, 'actions': []},
